@@ -26,10 +26,6 @@ npm test
 ```
 </details>
 
-## Requisitos
-
-## Requisitos Obrigatórios
-
 ### 1 - Created the GET `/talker endpoint`
 
 ---
