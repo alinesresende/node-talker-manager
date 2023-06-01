@@ -24,6 +24,7 @@ npm run dev
 docker exec -it talker_manager bash
 npm test 
 ```
+</details>
 
 ## Requisitos
 
@@ -49,8 +50,6 @@ npm test
 - the `email` field must have a valid email;
 - the `password` field is mandatory;
 - the `password` field must be at least 6 characters long.
-
-</details>
  
 ---
 
