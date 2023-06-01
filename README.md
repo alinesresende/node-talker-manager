@@ -44,14 +44,18 @@ npm test
 
 ### 4 - Added validations for the `/login` endpoint
 
-  <summary>The validation rules are:</summary><br />
+<details>
+    
+<summary>The validation rules </summary><br />
+  
 
-- the `email` field is mandatory;;
-- the `email` field must have a valid email;
-- the `password` field is mandatory;
-- the `password` field must be at least 6 characters long.
- 
----
+      - the `email` field is mandatory;;
+      - the `email` field must have a valid email;
+      - the `password` field is mandatory;
+      - the `password` field must be at least 6 characters long.
+      
+  
+  </details>
 
 ### 5 - Created the POST `/talker`
 
